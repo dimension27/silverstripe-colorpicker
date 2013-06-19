@@ -1,0 +1,13 @@
+{
+    "name": "dimension27/silverstripe-colorpicker",
+    "description": "Adds a color-picker input field to the SilverStripe CMS. Makes use of the ColorPicker jQuery Plugin.",
+    "type": "silverstripe-module",
+    "keywords": ["silverstripe", "field", "color", "colour"],
+	"require": {
+		"composer/installers": "*",
+		"silverstripe/framework": "3.*"
+	},
+	"extra": {
+		"installer-name": "colorpicker"
+	}
+}
